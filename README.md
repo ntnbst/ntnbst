@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I am Nitin from India 🇮🇳
+My jam - Javascript + React
 <!--
 **ntnbst/ntnbst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
