@@ -1,4 +1,5 @@
-### Hi there 👋 I am Nitin from Gurgaon, IN 🇮🇳
+### Hi there 👋 
+<img src='https://raw.githubusercontent.com/ntnbst/ntnbst/68403c1eae6dc039030dfd758a92f0427a998055/HOME-LIGHT.svg' />
 
 <!--
 **ntnbst/ntnbst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
