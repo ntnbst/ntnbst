@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntnbst)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ntnbst)
 
-Experienced frontend developer with 5+ years building and shipping React applications. Skilled in JavaScript, NextJS, and React Native. Passionate about performance, accessibility, and best practices.
+Experienced frontend developer with 5+ years building and shipping Web Applications. Skilled in JavaScript, NextJS, and ReactJS. Passionate about performance, accessibility, and best practices.
 
 ## Skills
 
